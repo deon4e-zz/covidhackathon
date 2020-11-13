@@ -1,7 +1,5 @@
 # SOLIDitech and Aruba Hackathon 2020
 
----
-
 COVID-19 has created many problems for many businesses. Create a unique, useful solution to one of these problems
 
 ## problem?
