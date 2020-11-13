@@ -4,7 +4,7 @@
 
 COVID-19 has created many problems for many businesses. Create a unique, useful solution to one of these problems
 
-**problem?**
+## problem?
 
 - covid-19 has forced many businesses to adapt to remote work
 
@@ -17,7 +17,7 @@ COVID-19 has created many problems for many businesses. Create a unique, useful 
 ### ultimately, the problem is:
 ### can one make a system that allows managers to incentivise productive work?
 
-**solution**
+## solution
 
 the solution is X, an outcome based productivity tool for teams
 
